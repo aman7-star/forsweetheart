@@ -611,10 +611,10 @@ scene.add(planet);
 
 // ---- TẠO CÁC VÒNG CHỮ QUAY QUANH HÀNH TINH ----
 const ringTexts = [
-  'Việt Nam',
-  "Cao Chung Đạt",
-  "Nguyễn Ngọc Yến Nhi",
-  "20/03/2005",
+  'Galaxy of love for MySweetHeart❤️ From Rumah❤️',
+  "I love you so much MySweetHeart❤️",
+  "❤️♡Selamat Merayakan hari kelahiran SayangKu♡❤️",
+  "❤️17/09/2025❤️",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
@@ -819,7 +819,7 @@ let galaxyAudio = null;
 
 function preloadGalaxyAudio() {
   const audioSources = [
-   "AE THEM NHAC TUY NHA"
+   "https://youtu.be/7maJOI3QMu0?si=SC9n_PR9WHMnLOUj"
   ];
 
   const randomIndex = Math.floor(Math.random() * audioSources.length);
