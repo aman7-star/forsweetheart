@@ -1,3 +1,24 @@
-Catatan :
-1. Well
-2. Good
+# I Lo
+
+Deskripsi
+
+---
+
+## 1. 🖼️ Well
+- aaa
+- bbb
+
+---
+
+## 2. 📝 Good
+- aaa
+- bbbb
+- ccc
+
+---
+
+## 3. 📝 Act
+- babcb
+- well
+
+
